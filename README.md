@@ -13,3 +13,5 @@ Current Top Performing school lays in the bottom bracket in terms of Individual 
 which might indicate its not about how much you invest but where you allocate the recieved budget
 This tread can be confirmed when we bin the schools according to individual spending 
 and find that the low spending schools have higher individual scores.
+
+Schools scores defer less when compared by size up until Large, Small and Medium schools show consistently high average scores where as the scores drop in Larger schools. 
